@@ -18,7 +18,7 @@ This project is designed to provide innovative recycling and energy solutions, f
 
 ## 🖥️ Installation & Setup
 1. Clone this repository:
-   git clone https://github.com/yourusername/waste-management-system.git
+   git clone https://github.com/hacr7sh25/waste-management-system.git
 2. Navigate to the project folder:
   cd waste-management-system
 3. Open `index.html` in your browser.
